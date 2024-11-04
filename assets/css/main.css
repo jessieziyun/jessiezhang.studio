@@ -1,0 +1,41 @@
+@tailwind utilities;
+
+body {
+  font-family: serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.1;
+  font-size: 1.125rem;
+  background-color: #fff;
+}
+
+.dark-mode body {
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+@layer utilities {
+	/* Hide scrollbar for Chrome, Safari and Opera */
+	.no-scrollbar::-webkit-scrollbar {
+		display: none;
+	}
+	/* Hide scrollbar for IE, Edge and Firefox */
+	.no-scrollbar {
+		-ms-overflow-style: none; /* IE and Edge */
+		scrollbar-width: none; /* Firefox */
+	}
+}
+
+.link {
+  @apply cursor-pointer w-max hover:italic;
+}
+
+.v-enter-active,
+.v-leave-active {
+	transition: opacity 0.3s ease-in-out;
+}
+
+.v-enter-from,
+.v-leave-to {
+	opacity: 0;
+}

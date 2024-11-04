@@ -1,0 +1,29 @@
+{
+  "index": 3,
+  "title": "Mobile Sensors",
+  "type": "Website",
+  "date": "2021",
+  "description": "Playing with mobile device interactions.",
+  "items": [
+    {
+      "type": "video",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730664657/circles-magnetic_x2qa7s.mp4",
+      "alt": "",
+      "col_span": 4,
+      "col_start": 1
+    },
+    {
+      "type": "video",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730664657/circles-tilt_lubngo.mp4",
+      "alt": "",
+      "col_span": 2
+    },
+    {
+      "type": "video",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730664652/circles-field_bj2p1t.mp4",
+      "alt": "",
+      "col_span": 1,
+      "col_start": 4
+    }
+  ]
+}

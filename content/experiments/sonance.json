@@ -1,0 +1,21 @@
+{
+  "index": 0,
+  "title": "Sonance",
+  "date": "2020",
+  "description": "For most, the senses through which we experience the world are discrete and fixed. But what if we could blur those boundaries? Sonance uses VR to explore the experience of sound as an audioreactive plane of particles.",
+  "items": [
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730665674/inaugural-evening_xxxb2u.jpg",
+      "alt": "",
+      "col_span": 4
+    },
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730665673/sonance_p358ry.png",
+      "alt": "",
+      "col_span": 2,
+      "col_start": 3
+    }
+  ]
+}

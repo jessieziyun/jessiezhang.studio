@@ -1,0 +1,21 @@
+{
+  "index": 1,
+  "title": "Speech Bubbles",
+  "type": "Website",
+  "date": "2020",
+  "description": "How can you visually communicate something that has no visual form? Speech Bubbles is an attempt to make sound tangible. Each time sound is detected, a “speech bubble” forms and fills with that sound; placing your ear to the bubble allows you to hear the sound again, as if it's been captured and stored.",
+  "items": [
+    {
+      "type": "video",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730747528/speech-bubbles_mqbcgm.mp4",
+      "alt": "",
+      "col_span": 2
+    },
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730666403/speech-bubbles_g5zwey.jpg",
+      "alt": "",
+      "col_span": 2
+    }
+  ]
+}

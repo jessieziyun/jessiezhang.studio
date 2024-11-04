@@ -1,0 +1,29 @@
+{
+  "title": "Audience of One",
+  "type": "Four-Channel Video",
+  "date": "2020",
+  "description": "A four-channel video installation exploring the boundaries of hyper-personalised advertising through real-time emotional tracking and adaptation.",
+  "thumbnail": {
+    "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730758754/Installation_s3edgy.jpg",
+    "alt": ""
+  },
+  "hero": {
+    "type": "vimeo",
+    "id": 397151165,
+    "alt": ""
+  },
+  "info": {
+    "summary": "Through footage of two viewers and the personalised advertisements that they simultaneously create and consume, Audience of One speculates on the future of advertising in an era of pervasive surveillance and hyper-personalisation.",
+    "full": [
+      "Audience of One situates viewers in a future where advertising is no longer a one-way message but a deeply personalised interaction that unfolds in real time. The installation presents two advertisements for the same product experienced by two viewers whose emotions influence their content. The advertisements start identically but evolve based on each viewer’s unique responses—moments of curiosity, tension, or indifference—illustrating the potential for technology to tailor narratives so personally that the viewer becomes an active participant in shaping the message.",
+      "By immersing the audience in this interaction, the installation encourages reflection on the role of surveillance and influence in our lives. It raises questions about the autonomy we may forfeit in exchange for hyper-personalised experiences, and whether we would welcome such technology into our private spaces—or resist it. Through the lens of advertising, Audience of One prompts us to consider where we might draw the line in allowing our emotions to be read, interpreted, and leveraged by technology."
+    ]
+  },
+  "items": [
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730757433/Installation_xa1qba.gif",
+      "alt": ""
+    }
+  ]
+}

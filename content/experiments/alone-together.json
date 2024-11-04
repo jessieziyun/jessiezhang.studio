@@ -1,0 +1,27 @@
+{
+  "index": 2,
+  "title": "Alone Together",
+  "type": "Website",
+  "date": "2020",
+  "description": "An exploration of virtual intimacy in a post-pandemic world. In a shared digital space, users’ hands are captured via the webcam and translated into liquid-like forms that embody organic movement and fluidity.",
+  "items": [
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730751053/thumbnail_dknprm.png",
+      "alt": "",
+      "col_span": 4
+    },
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730749733/alone_together_save_vsad5v.png",
+      "alt": "",
+      "col_span": 2
+    },
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730749733/alone_together_gallery_p7eycf.png",
+      "alt": "",
+      "col_span": 2
+    }
+  ]
+}

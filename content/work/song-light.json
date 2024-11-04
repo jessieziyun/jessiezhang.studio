@@ -1,0 +1,41 @@
+{
+  "title": "Song Light",
+  "type": "Installation",
+  "date": "2021",
+  "description": "An sensory experience controlled by birdsong, harnessing the power of a convolutional neural network to amplify avian voices and transform their melodies into a visual experience.",
+  "thumbnail": {
+    "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1729097843/video-thumbnail_xsn4fv.jpg",
+    "alt": ""
+  },
+  "hero": {
+    "type": "vimeo",
+    "id": 556685962,
+    "caption": "",
+    "alt": ""
+  },
+  "info": {
+    "summary": "In a world increasingly detached from non-human nature, our daily rhythms once harmonised with the calls of birds and the cycles of the seasons. Today, our technologies often distance us from these ecological signals. What if it were possible to bridge this gap through technological means?",
+    "full": [
+      "The bifurcation of human culture and non-human nature is a notion that is pervasive in the Western world. However, it is neither universal nor true. As long as this dualism persists, our society risks further degrading the very ecosystems it relies upon. Song Light challenges this perception by exploring alternative relationships between technology and the natural world.",
+      "Powered by a convolutional neural network trained on the song of 88 bird species commonly heard in the United Kingdom, Song Light amplifies their voices by expanding their song from the auditory to the visual realms. Each species of bird is represented by a distinct colour, creating an evolving lightscape that responds dynamically to the diversity of sounds in its environment. When the system detects birdsong, soothing blue hues illuminate the space, promoting relaxation and calmness. In contrast, a lack of song triggers a shift towards warning reds, deepening in intensity with prolonged silence.",
+      "The installation serves as a reminder that the natural world is not a separate entity, but a vital part of our existence. The desire to conserve nature is deeply rooted in our connection to nature, and the extent to which we view ourselves as part of the natural world. By amplifying nature, Song Light not only illuminates spaces but also rekindles a sense of belonging to the natural rhythms that once shaped our lives, offering a glimpse of what it means to coexist harmoniously with nature in a modern context."
+    ]
+  },
+  "items": [
+    {
+      "type": "group",
+      "items": [
+        {
+          "type": "image",
+          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1729098287/close-up-1_xosmct.jpg",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1729098288/close-up-2_s5urtf.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
