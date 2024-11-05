@@ -3,7 +3,7 @@
   "title": "Extinction Visualiser",
   "type": "Website",
   "date": "2023",
-  "description": "An exploration of making ecological collapse tangible. This web-based experience displays a grid of endangered species from the IUCN Red List—clicking on a species reveals information about it and pauses an ongoing countdown, but closing the window triggers a low alarm tone as the species disappears from view. Every 10 seconds, another species vanishes, announced by the tone, unless the user interacts.",
+  "description": "An exploration of making ecological collapse tangible. This web-based experience displays a grid of endangered species from the IUCN Red List—clicking on a species reveals information about it and pauses an ongoing countdown, but closing the window triggers a low alarm tone as the species disappears from view. Every ten seconds, another species vanishes, announced by the tone, unless the user interacts.",
   "items": [
     {
       "type": "image",
