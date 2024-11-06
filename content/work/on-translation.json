@@ -1,8 +1,8 @@
 {
   "title": "On Translation",
   "type": "Object",
-  "date": "2023",
-  "description": "A camera that translates images into soundscapes, inviting reflection on the ways we sense, interpret, and relate to our surroundings.\n\n(Documentation in progress)",
+  "date": "Ongoing",
+  "description": "A camera that translates images into soundscapes, inviting reflection on the ways we sense, interpret, and relate to our surroundings.\n\n(Work in progress)",
   "thumbnail": {
     "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730894697/terminal_kxxmch.jpg",
     "alt": ""
@@ -22,9 +22,19 @@
   },
   "items": [
     {
-      "type": "image",
-      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730894574/windows_mycbtb.png",
-      "alt": ""
+      "type": "group",
+      "items": [
+        {
+          "type": "image",
+          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730899365/terminal-sq_uafohf.png",
+          "alt": ""
+        },
+        {
+          "type": "image",
+          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730899365/image-sq_d6m9fw.png",
+          "alt": ""
+        }
+      ]
     }
   ]
 }
