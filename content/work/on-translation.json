@@ -4,12 +4,12 @@
   "date": "2023",
   "description": "A camera that translates images into soundscapes, inviting reflection on the ways we sense, interpret, and relate to our surroundings.\n\n(Documentation in progress)",
   "thumbnail": {
-    "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730746319/placeholder_bgloz5.png",
+    "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730894697/terminal_kxxmch.jpg",
     "alt": ""
   },
   "hero": {
     "type": "video",
-    "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730892119/placeholder_rtuxx4.mp4",
+    "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730894521/terminal_ocuquz.mp4",
     "alt": ""
   },
   "info": {
@@ -20,5 +20,11 @@
       "On Translation is a lens through which we can reflect on sensory exchange, augmentation, and the act of noticing itself. It suggests that machines, like us, can sense and relate to the world in ways that reveal the unexpected—offering us new perspectives on what it means to observe and listen."
     ]
   },
-  "items": [{}]
+  "items": [
+    {
+      "type": "image",
+      "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730894574/windows_mycbtb.png",
+      "alt": ""
+    }
+  ]
 }
