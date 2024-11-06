@@ -1,0 +1,24 @@
+{
+  "title": "On Translation",
+  "type": "Object",
+  "date": "2023",
+  "description": "A camera that translates images into soundscapes, inviting reflection on the ways we sense, interpret, and relate to our surroundings.\n\n(Documentation in progress)",
+  "thumbnail": {
+    "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730746319/placeholder_bgloz5.png",
+    "alt": ""
+  },
+  "hero": {
+    "type": "video",
+    "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730892119/placeholder_rtuxx4.mp4",
+    "alt": ""
+  },
+  "info": {
+    "summary": "By capturing images and transforming them into sound, On Translation challenges traditional forms of sensory experience, expanding our understanding of how we and machines interpret the environment around us and encouraging new perspectives on perception and the act of noticing itself.",
+    "full": [
+      "On Translation is an exploration of sensemaking. The device translates visual snapshots into a unique auditory experience, challenging us to relate to our surroundings in unexpected ways. When an image is captured, a layered process of machine interpretation unfolds: the camera analyses the image and generates a poetic response, which is then transformed into a musical soundscape. The result is a sensory translation—a means of “seeing” through sound.",
+      "By shifting from the visual to the auditory, On Translation reimagines how we connect with the world, inviting us to notice and interpret our environment with renewed depth. By leveraging machines as sensory interpreters, it reveals how their “translations” might augment and expand our own. As we experience images as sound, we are encouraged to explore the layers of meaning that emerge when different forms of perception intertwine.",
+      "On Translation is a lens through which we can reflect on sensory exchange, augmentation, and the act of noticing itself. It suggests that machines, like us, can sense and relate to the world in ways that reveal the unexpected—offering us new perspectives on what it means to observe and listen."
+    ]
+  },
+  "items": [{}]
+}

@@ -80,9 +80,9 @@
             </div></div
         ></transition>
       </div>
-      <div class="mt-24 flex justify-between p-1">
-        <nuxt-link :to="prevProject._path" class="link">Prev</nuxt-link>
-        <nuxt-link :to="nextProject._path" class="link">Next</nuxt-link>
+      <div class="mt-24 flex justify-between p-1 underline">
+        <nuxt-link :to="prevProject._path">Prev</nuxt-link>
+        <nuxt-link :to="nextProject._path">Next</nuxt-link>
       </div>
     </div>
     <div v-else class="text-center">
