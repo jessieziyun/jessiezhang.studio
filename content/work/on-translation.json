@@ -8,8 +8,8 @@
     "alt": ""
   },
   "hero": {
-    "type": "video",
-    "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1730894521/terminal_ocuquz.mp4",
+    "type": "vimeo",
+    "id": 1032835384,
     "alt": ""
   },
   "info": {
