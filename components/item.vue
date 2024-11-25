@@ -7,6 +7,7 @@
       class="w-full h-auto"
     />
     <vimeo v-if="item.type == 'vimeo'" :data="item" />
+    <audio-image v-if="item.type == 'audio-image'" :data="item" />
     <video v-if="item.type == 'video'" :src="item.path" autoplay muted loop></video>
     <div v-if="item.type == 'group'" class="flex gap-2" :class="item.wrap && expandInfo ? 'flex-col' : 'flex-row'">
       <div v-for="item in item.items" :key="item.path">

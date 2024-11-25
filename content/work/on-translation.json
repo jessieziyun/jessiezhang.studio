@@ -22,19 +22,14 @@
   },
   "items": [
     {
-      "type": "group",
-      "items": [
-        {
-          "type": "image",
-          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730899365/terminal-sq_uafohf.png",
-          "alt": ""
-        },
-        {
-          "type": "image",
-          "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1730899365/image-sq_d6m9fw.png",
-          "alt": ""
-        }
-      ]
+      "type": "audio-image",
+      "image": {
+        "path": "https://res.cloudinary.com/dwrqvbmtp/image/upload/v1732569633/1730888638_capture_ctpj1c.jpg",
+        "alt": ""
+      },
+      "audio": {
+        "path": "https://res.cloudinary.com/dwrqvbmtp/video/upload/v1732569574/1730888638_audio_goh63e.wav"
+      }
     }
   ]
 }
