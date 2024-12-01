@@ -6,12 +6,9 @@
     <br />
     <div class="italic">On my list</div>
     <ul>
-      <li>Update/complete project pages</li>
-      <li>Update about/bio</li>
       <li>Implement lazy loading for images</li>
       <li>Add page transitions</li>
       <li>Improve accessibility</li>
-      <li>Fix full screen videos on mobile</li>
       <li>Improve mobile experience</li>
       <li>Reduce carbon impact (build a solar server?)</li>
     </ul>
