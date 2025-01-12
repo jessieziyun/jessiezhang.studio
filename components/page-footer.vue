@@ -7,22 +7,14 @@
         >,
         <a href="https://github.com/jessieziyun" target="_blank" class="link"
           >GitHub</a
-        >, <br class="sm:hidden" />
+        >,
         <a href="https://instagram.com/jessieziyun" target="_blank" class="link"
           >Instagram</a
-        ><span class="sm:hidden"
-          >,
-          <a href="mailto:jessie.a.zhang@gmail.com" target="_blank" class="link"
-            >Email</a
-          ></span
         >
       </p>
     </div>
-    <div class="text-right col-span-2 sm:col-span-1">
-      <a
-        href="mailto:jessie.a.zhang@gmail.com"
-        target="_blank"
-        class="link"
+    <div class="text-right">
+      <a href="mailto:jessie.a.zhang@gmail.com" target="_blank" class="link"
         >Email</a
       >
     </div>
